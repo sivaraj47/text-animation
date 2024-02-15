@@ -1,0 +1,24 @@
+.container{
+  display:flex;
+  justify-content:center;
+  flex-direction:column;
+  align-items:center;
+  flex-wrap:wrap;
+ 
+}
+h2{
+  font-size:90px;
+  margin:3px;
+  color:transparent;
+  background-image:url(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXQ0d2J6N24zZ3hhc2l5bDdhY3Q2N2R0NWVwYTk0MTZrZGs2cmxiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gFhZjOtzoutSvckWPM/giphy.gif);
+  background-clip:text; 
+  filter: drop-shadow(4px 1px 1px #777);
+}
+h3{
+  font-size:70px;
+  margin:3px;
+  color:transparent;
+  background-image:url(https://cdn.pixabay.com/animation/2022/12/13/13/47/13-47-25-761_512.gif);
+  background-clip:text; 
+  filter: drop-shadow(4px 1px 1px #777);
+}
